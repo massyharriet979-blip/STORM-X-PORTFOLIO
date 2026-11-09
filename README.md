@@ -1,117 +1,137 @@
-# STORM X — Portfolio
+⚡ STORM X — DARK NOVA AI
 
-**STORM X — Self-Taught Developer from Uganda | DARK NOVA AI**
-Built by **Nova Labs** — Kasese, Uganda 🇺🇬
+<p align="center">
+  <img src="https://img.shields.io/badge/STORM-X-00FF99?style=for-the-badge&labelColor=050505" />
+  <img src="https://img.shields.io/badge/DEVELOPER-UGANDA-00CCFF?style=for-the-badge&labelColor=050505" />
+  <img src="https://img.shields.io/badge/NOVA-LABS-BB66FF?style=for-the-badge&labelColor=050505" />
+</p><h2 align="center">
+  <span style="color:#00FF99">⚡ BRINGING THE WORLD TO A NEW TECHNOLOGY ⚡</span>
+</h2><p align="center">
+  <span style="color:#00FF99">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+</p><p align="center">
+  <b><span style="color:#00FF99">SELF-TAUGHT DEVELOPER</span></b><br>
+  <span style="color:#00CCFF">BUILDING THE FUTURE WITH TECHNOLOGY</span><br>
+  <span style="color:#BB66FF">FROM KASESE, UGANDA 🇺🇬</span>
+</p>---
 
-> A young builder with a big vision, learning fast and building every single day.
-> Perfect in effort, unstoppable in heart.
+<h2><span style="color:#00FF99">👤 ABOUT STORM X</span></h2>- <span style="color:#00FF99">NAME:</span> FEBRAS — STORM X
+- <span style="color:#00CCFF">AGE:</span> 15
+- <span style="color:#BB66FF">BIRTHDAY:</span> 13 MARCH 2011
+- <span style="color:#00FF99">STARTED CODING:</span> 28 SEPTEMBER 2026
+- <span style="color:#FFB347">EDUCATION:</span> SELF-TAUGHT
+- <span style="color:#00CCFF">LOCATION:</span> KASESE, UGANDA
+- <span style="color:#BB66FF">GOAL:</span> SUCCESS BY 2030
+
+I AM FEBRAS, BUT I PREFER THE NAME STORM X.
+
+I STARTED CODING ON 28 SEPTEMBER 2026. I AM LEARNING, BUILDING AND IMPROVING WITH THE RESOURCES I HAVE, EVEN WITHOUT A COMPUTER.
+
+<h2><span style="color:#BB66FF">🤝 ALOK</span></h2>ALOK GUIDED ME, SUPPORTED ME AND WALKED WITH ME THROUGH THIS JOURNEY.
+
+REAL RESPECT. REAL BROTHERHOOD.
+
+---
+
+<h2><span style="color:#00FF99">🚀 MY PROJECTS</span></h2><h3><span style="color:#00CCFF">🧠 DARK NOVA AI</span></h3>AN INTELLIGENT AI ASSISTANT DESIGNED TO HELP NEW DEVELOPERS LEARN, GROW AND DISCOVER THEIR POTENTIAL.
+
+<span style="color:#BB66FF">BUILT BY NOVA LABS.</span>
+
+<h3><span style="color:#00FF99">🛡️ STORM CYBER MD</span></h3>AN ADVANCED WHATSAPP AUTOMATION BOT.
+
+- 200+ COMMANDS
+- BAILEYS MD
+- ANTI-BUG
+- ANTI-LINK
+- ANTI-SPAM
+- GROUP MANAGEMENT
+- AUTOMATION SYSTEMS
+
+<h3><span style="color:#FFB347">🌐 WEB DEPLOYMENT</span></h3>- WEBSITE HOSTING
+- PAIRING WEBSITES
+- WEB PLATFORMS
+- LIGHTWEIGHT APPLICATION DEPLOYMENT
 
 ---
 
-## 👤 About STORM X
-
-- **Real Name:** Febras — Call me STORM X
-- **Age:** 15 — Born 13 March 2011
-- **Started Coding:** Sept 28, 2026
-- **Education:** No Degree — Self-taught • No PC
-- **Location:** Kasese, Uganda
-- **Dream:** Success — Try till I win
-- **Goal:** I will be the best by 2030
-
-My real name is Febras, but I love being called STORM X. I started coding on September 28th, 2026. I never studied coding and I have no degree. I taught myself. I don't have a computer or expensive devices. I just had a dream that if I try and try, I will succeed.
-
-## 🤝 Alok
-
-Alok took me in the process. He walked with me, guided me, and helped me grow in this journey. He believed in STORM X and helped me become stronger. Real respect, real brotherhood.
-
-## 🚀 What I Built
-
-### 🧠 DARK NOVA AI
-An intelligent AI assistant that helps new developers grow and discover their better talents. Built by NOVA LABS — dark, smart, and powerful.
-
-### 🛡️ STORM CYBER MD
-An advanced automation bot to control and keep WhatsApp groups safe. Protects from bugs, spam, and unwanted links. 200+ Commands. Baileys MD. Anti-Bug.
-
-### 🌐 WEB DEPLOYMENT
-Deploy small websites to run 24/7 without stopping. Pairing sites or any type of website apart from bots that need a lot of RAM.
-
-## 🛠️ Tech Stack
-
-JavaScript • Node.js • Python • HTML
-Vercel Apps • Render • Railway • Zone.id • Netlify • GitHub Pages • Cloudflare
-
-## 🎵 Music
-
-- Song: Hero — Alpina Sound
-- Starts on OK / BACK tap in barrier
-- Top button: STOP / RESUME
-- File: `hero.mp3` in same folder as `index.html`
-- Backup: YouTube embed if MP3 missing
-
-## 🔒 Barrier
-
-On open, a small rectangle in the middle shows:
-> THIS PAGE WONT CONTAIN ALL PERSONAL INFORMATION FROM THE OWNER
-- Background is blurred behind
-- BACK and OK both enter the site and start music
-
-## 🌍 Planet Menu — Language + Theme + Appearance
-
-### LANGUAGE
-- 🇬🇧 ENGLISH
-- 🇫🇷 FRENCH
-- 🇪🇸 SPANISH
-All texts on the page translate.
-
-### THEME — Colours
-
-| Theme | Main Colour | Background | Accent |
-| --- | --- | --- | --- |
-| 🟢 Green — Real Theme | #2ea66e / #34c07e | #060b08 Dark Green Black | #34c07e Green Glow |
-| 🌸 Red & Pink | #ff2e7a / #ff6aa5 | #14060f Dark Pink Black | #ff4d8d Pink |
-| 🟡 Yellow & Purple | #ffd828 / #a86bff | #12081a Dark Purple | #ffd828 Yellow Glow |
-| 🟠 Orange & Black | #ff7800 / #ffb347 | #0f0800 Dark Orange Black | #ff7800 Orange |
-
-### APPEARANCE
-- 🌑 Original Dark — Normal look
-- ✨ Glow — Bright Texts, card glow
-- 🤍 Clean — Simple, no shadow
-- ⚡ Neon — Strong Glow
-
-Appearance changes background only + how texts look. Capital letters stay same. Words never change.
-
-## ✨ Effects
-
-- 55 glowing dots floating in background
-- Lightning flash every 4 seconds
-- Floating cards
-- Typewriter effect on Goal 2030 and Links
-
-## 📱 Links
-
-- YouTube: @STORMX-xyz
-- WhatsApp 1: +256 742 842 515
-- WhatsApp 2: +256 794 110 913
-- Telegram: @STORMXSYRIX
-
-## 📂 Files
-
-| File | What it is |
-| --- | --- |
-| index.html | Full portfolio — barrier, music, themes, translation |
-| hero.mp3 | Music file — Hero song |
-| README.md | This file |
-
-## ▶️ How to Run
-
-1. Upload `index.html` + `hero.mp3` to Render / Netlify / Vercel
-2. Open link
-3. Tap OK or BACK — music starts
-4. Use 🌍 to change Language / Theme / Appearance
-
-## 🎯 My Promise — 2030
-
-By 2030, I will be the best version of myself — the best developer from Kasese, Uganda, known around the world. Not by luck, but by discipline, by trying every day, by building, learning, and never giving up. From a phone with no PC to a name the world respects. This is my promise. This is my storm.
+<h2><span style="color:#00CCFF">🛠️ TECHNOLOGY STACK</span></h2><p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,github,vercel,cloudflare" />
+</p><h3><span style="color:#BB66FF">HOSTING PLATFORMS</span></h3>RENDER • RAILWAY • VERCEL • NETLIFY • GITHUB PAGES • CLOUDFLARE • ZONE.ID
 
 ---
-© 2026 STORM X — BASED IN KASESE BY THE NOVA LABS
+
+<h2><span style="color:#FFB347">🎵 PORTFOLIO MUSIC</span></h2>- SONG: HERO — ALPINA SOUND
+- STARTS AFTER OK / BACK TAP
+- STOP / RESUME CONTROL
+- FILE: "HERO.MP3"
+
+<h2><span style="color:#00FF99">🔒 SECURITY BARRIER</span></h2>A CENTERED MESSAGE APPEARS BEFORE ENTERING THE WEBSITE.
+
+«THIS PAGE WONT CONTAIN ALL PERSONAL INFORMATION FROM THE OWNER.»
+
+- BACKGROUND BLUR
+- OK BUTTON
+- BACK BUTTON
+- MUSIC STARTS AFTER USER INTERACTION
+
+---
+
+<h2><span style="color:#BB66FF">🌍 PLANET MENU</span></h2>LANGUAGES
+
+🇬🇧 ENGLISH • 🇫🇷 FRENCH • 🇪🇸 SPANISH
+
+COLOUR THEMES
+
+THEME| COLOUR
+🟢 GREEN| "#34C07E"
+🌸 RED & PINK| "#FF4D8D"
+🟡 YELLOW & PURPLE| "#FFD828"
+🟠 ORANGE & BLACK| "#FF7800"
+
+APPEARANCE MODES
+
+- 🌑 ORIGINAL DARK
+- ✨ GLOW
+- 🤍 CLEAN
+- ⚡ NEON
+
+---
+
+<h2><span style="color:#00FF99">✨ SPECIAL EFFECTS</span></h2>- 55 FLOATING GLOWING PARTICLES
+- LIGHTNING FLASH EVERY 4 SECONDS
+- FLOATING PROJECT CARDS
+- TYPEWRITER EFFECT
+- GLOWING BUTTONS
+- NEON DETAILS
+
+---
+
+<h2><span style="color:#00CCFF">📱 CONNECT WITH STORM X</span></h2><p align="center">
+  <a href="https://youtube.com/@STORMX-xyz">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://wa.me/256742842515">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://wa.me/256794110913">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://t.me/STORMXSYRIX">
+    <img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>---
+
+<h2 align="center">
+  <span style="color:#00FF99">🎯 THE 2030 PROMISE</span>
+</h2><p align="center">
+  <span style="color:#00FF99">NOT BY LUCK.</span><br>
+  <span style="color:#00CCFF">BUT BY DISCIPLINE.</span><br>
+  <span style="color:#BB66FF">NOT BY WAITING.</span><br>
+  <span style="color:#FFB347">BUT BY BUILDING.</span>
+</p><p align="center">
+  <b>FROM A PHONE WITH NO PC TO A NAME THE WORLD RESPECTS.</b>
+</p><h1 align="center">
+  ⚡ STORM X ⚡
+</h1><p align="center">
+  <span style="color:#00FF99">© 2026 STORM X — KASESE, UGANDA 🇺🇬</span><br>
+  <span style="color:#BB66FF">POWERED BY NOVA LABS</span>
+</p>
